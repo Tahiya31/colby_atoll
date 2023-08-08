@@ -5,3 +5,10 @@ Climate change poses significanrt threats to the stability and sustainability of
 
 [Link to Demo](https://github.com/RayWang0328/Atoll-Semantic-Segmentation)
 
+## Running the models:
+
+The different models built in this project are all present in the `Models` folder with each model being trained on a different image type. The Dataset for the project is all zipped up inside `Dataset.zip`. To actually run the models on some images or train your own model, refer to the notebooks below: 
+
+* To run the models, go to this [notebook](https://github.com/Tahiya31/colby_atoll/blob/main/Notebooks/Model%20Prediction.ipynb)
+
+* To train the models, go to this [notebook](https://github.com/Tahiya31/colby_atoll/blob/main/Notebooks/Model%20Training.ipynb)
